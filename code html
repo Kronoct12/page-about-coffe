@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <header>
+        <h1>CAFÉ CASANARE</h1>
+    </header>
+  <nav>
+  <ul>
+    <li><a href="nosotros.html">Nosotros</a></li>
+    <li><a href="menu.html">Menú</a></li>
+    <li><a href="galeria.html">Galería</a></li>
+    <li><a href="contacto.html">Contacto</a></li>
+    </nav>
+  </ul>
+
+    <main>
+        <section>
+            <h2>INICIO</h2>
+            <div class="welcome-message">
+            <p>Bienvenido a Café Casanare, un espacio donde el aroma del café artesanal se mezcla con la calidez de nuestra tierra. Aquí encontrarás un lugar para compartir, disfrutar y descubrir sabores únicos preparados con pasión. <br><br>Aquí no solo encontrarás bebidas y postres, sino también un espacio para compartir momentos especiales con amigos, familia o simplemente contigo mismo. Queremos que cada visita sea una experiencia cálida y auténtica, marcada por el aroma del café recién hecho y la hospitalidad que nos caracteriza.
+Explora nuestro menú, conoce nuestra historia y déjate inspirar por la tradición cafetera que nos mueve. En Café Casanare creemos que el café es más que una bebida: es cultura, encuentro y alegría
+</p>
+            </div>
+        <img src="OIP.jpg" alt="Taza de café humeante">
+        </section>
+        <section>
+
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2026 CAFÉ CASANARE</p>
+    </footer>
+  </html>
